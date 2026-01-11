@@ -36,9 +36,8 @@ Flutter Engineer and Full‑Stack Developer building cross‑platform apps and A
 
 <!-- Local, auto-updated summary cards (generated daily via GitHub Actions) -->
 <!-- Uncomment the block below after the first workflow run generates the images -->
-<!--
+
 ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![Top Languages by Repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![Stats](profile-summary-card-output/tokyonight/3-stats.svg)
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
--->
