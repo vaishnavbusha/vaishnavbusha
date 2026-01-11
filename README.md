@@ -2,6 +2,8 @@
 
 Flutter Engineer and Full‑Stack Developer building cross‑platform apps and AI‑powered products.
 
+![Profile Views](https://komarev.com/ghpvc/?username=vaishnavbusha&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
 ### About me
 - Architecting and developing FieldFuze, a cross‑platform field service management SaaS (iOS/Android/Web) with Stripe Connect payments, QuickBooks Online integration, FCM push notifications, Google Maps, and dynamic PDF invoicing; deployed to Play Store, App Store, and Web.
 - Built Resumade, an agentic AI app (Next.js + FastAPI on AWS Lambda/DynamoDB with Amplify) that generates job‑tailored resumes with one‑click export.
