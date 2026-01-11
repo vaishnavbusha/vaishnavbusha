@@ -26,8 +26,17 @@ Flutter Engineer and Full‑Stack Developer building cross‑platform apps and A
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
 
 ### GitHub stats
-![Vaishnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavbusha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Vaishnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavbusha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavbusha&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavbusha&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavbusha&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavbusha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+<!-- Local, auto-updated summary cards (generated daily via GitHub Actions) -->
+<!-- Uncomment the block below after the first workflow run generates the images -->
+<!--
+![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
+![Top Languages by Repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+![Stats](profile-summary-card-output/tokyonight/3-stats.svg)
+![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
+-->
