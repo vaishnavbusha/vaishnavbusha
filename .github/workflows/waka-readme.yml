@@ -1,0 +1,28 @@
+name: Update WakaTime stats in README
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: 5
+          SHOW_TIME: "true"
+          SHOW_MASKED_TIME: "false"
+          BLOCKS: "░▒▓█"
+          SECTION_NAME: "waka"
+          COMMIT_MESSAGE: "chore: update WakaTime dev metrics"

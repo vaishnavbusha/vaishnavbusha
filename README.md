@@ -26,10 +26,14 @@ Flutter Engineer and Full‑Stack Developer building cross‑platform apps and A
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavbusha&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-<!-- Local, auto-updated summary cards (generated daily via GitHub Actions) -->
-<!-- Uncomment the block below after the first workflow run generates the images -->
+### Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<!-- Local, auto-updated summary cards (generated daily via GitHub Actions) -->
 ![Profile Details](profile-summary-card-output/tokyonight/0-profile-details.svg)
 ![Top Languages by Repo](profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 ![Stats](profile-summary-card-output/tokyonight/3-stats.svg)
 ![Productive Time](profile-summary-card-output/tokyonight/4-productive-time.svg)
+
+
